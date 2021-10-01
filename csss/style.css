@@ -1,0 +1,215 @@
+*{
+ margin: 0;
+ padding: 0%;
+ box-sizing: border-box;   
+}
+.card{
+    border: 2px solid aqua;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius:10px ;
+}
+.card .card-head h1{
+    padding-top:10px;
+    padding: 10px;
+    color: cadetblue;
+}
+.card-head{
+    background-color: aqua;
+    text-align: center;
+}
+.card-body h2{
+    color: cadetblue;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.card-body i{
+    color: cadetblue;
+}
+.card-body{
+    color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;   
+   }
+   .card-2{
+       border: 2px solid aqua;
+       width: 200px;
+       height: 200px;
+       margin: auto;
+       border-radius:10px ;
+   }
+   .card-2 .card-head-2 h1{
+       padding-top:10px;
+       padding: 10px;
+       color: cadetblue;
+   }
+   .card-head-2{
+       background-color: aqua;
+       text-align: center;
+   }
+   .card-body-2 h2{
+       color: cadetblue;
+       text-align: center;
+       font-size: 25px;
+       padding-top: 20px;
+   }
+   .card-body-2 i{
+       color: cadetblue;
+   } 
+   .card-body-2{
+       color: aqua;
+       text-align: center;
+       padding: 20px;
+   }
+
+   *{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;   
+   }
+   .card-3{
+       border: 2px solid aqua;
+       width: 200px;
+       height: 200px;
+       margin: auto;
+       border-radius:10px ;
+   }
+   .card-3 .card-head-3 h1{
+       padding-top:10px;
+       padding: 10px;
+       color: cadetblue;
+   }
+   .card-head-3{
+       background-color: aqua;
+       text-align: center;
+   }
+   .card-body-3 h2{
+       color: cadetblue;
+       text-align: center;
+       font-size: 25px;
+       padding-top: 20px;
+   }
+   .card-body-3{
+       color: aqua;
+       text-align: center;
+       padding: 20px;
+   }
+   .card-body-3 i{
+       color: cadetblue;
+   }
+
+   *{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;   
+   }
+   .card-4{
+       border: 2px solid yellow;
+       width: 200px;
+       height: 200px;
+       margin: auto;
+       border-radius:10px ;
+   }
+   .card-4 .card-head-4 h2{
+       padding-top:10px;
+       padding: 10px;
+       color:yellowgreen
+   }
+   .card-head-4{
+       background-color:yellow;
+       text-align: center;
+   }
+   .card-body-4 h3{
+       color: yellowgreen;
+       text-align: center;
+       font-size: 25px;
+       padding-top: 20px;
+   }
+   .card-body-4{
+       color:yellowgreen;
+       text-align: center;
+       padding: 20px;
+   }
+   .card-body-4 i{
+       color: yellowgreen;
+   }
+
+   *{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;   
+   }
+   .card-5{
+       border: 2px solid yellow;
+       width: 200px;
+       height: 200px;
+       margin: auto;
+       border-radius:10px ;
+   }
+   .card-5 .card-head-5 h2{
+       padding-top:10px;
+       padding: 10px;
+       color:yellowgreen
+   }
+   .card-head-5{
+       background-color:yellow;
+       text-align: center;
+   }
+   .card-body-5 h3{
+       color: yellowgreen;
+       text-align: center;
+       font-size: 25px;
+       padding-top: 20px;
+   }
+   .card-body-5{
+       color:yellowgreen;
+       text-align: center;
+       padding: 20px;
+   }
+   .card-body-5 i{
+       color: yellowgreen;
+   }
+
+   *{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;   
+   }
+   .card-6{
+       border: 2px solid yellow;
+       width: 200px;
+       height: 200px;
+       margin: auto;
+       border-radius:10px ;
+   }
+   .card-6 .card-head-6 h2{
+       padding-top:10px;
+       padding: 10px;
+       color:yellowgreen
+   }
+   .card-head-6{
+       background-color:yellow;
+       text-align: center;
+   }
+   .card-body-6 h3{
+       color: yellowgreen;
+       text-align: center;
+       font-size: 25px;
+       padding-top: 20px;
+   }
+   .card-body-6{
+       color:yellowgreen;
+       text-align: center;
+       padding: 20px;
+   }
+   .card-body-6 i{
+       color: yellowgreen;
+   }
